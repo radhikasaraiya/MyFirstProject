@@ -1,0 +1,6 @@
+uname=input("Enter a Name")
+age=int(input("Enter Age"))
+per=float(input("Enter Percentage "))
+print("Welcome" , uname)
+print("Your Age is ",age)
+print("Your Percentage is ",per)
